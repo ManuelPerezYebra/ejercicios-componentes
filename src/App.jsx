@@ -13,7 +13,7 @@ const App = () => {
 	<SayHello name='Manuel'></SayHello>
 	<CalculateSquareArea distance='23'></CalculateSquareArea>
 	<CalculateTriangleArea base='20' height='35'></CalculateTriangleArea>
-	<CalculateCircleArea radio='5'></CalculateCircleArea>
+	<CalculateCircleArea radius='5'></CalculateCircleArea>
 	<CelsiusToFarenheit degree='32'></CelsiusToFarenheit>
 	<FarenheitToCelsius degree='90'></FarenheitToCelsius>
 	<TotalPrice price = '10'></TotalPrice>
